@@ -10,6 +10,4 @@ copy the contents of the cloned repo into this new venv folder. Activate the ven
 
 The name of your venv should appear next to the command prompt. Now type: cd ..
 
-And finally: pip install requirements.txt
-
-Then, running the app/app.py file in your editor of choice will boot up a local Flask server, which you can then do as you please with.
+And finally: pip install the several packages that are required.
